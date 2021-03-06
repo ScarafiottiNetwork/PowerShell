@@ -1,0 +1,2 @@
+# PowerShell
+Automazioni in PowerShell
